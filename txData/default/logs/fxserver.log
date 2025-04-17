@@ -1,0 +1,250 @@
+
+================================================================
+======== FXServer Starting - 17/4/2568 11:54:08                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 25 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[      net-tcp-server] Listening on socket failed - libuv error EADDRINUSE.
+[      net-tcp-server] error on connection: address already in use
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://sixnumz-k4p4z6.users.cfx.re/
+> txaEvent "announcement" "{＂author＂:＂txAdmin＂,＂message＂:＂Due to a partial hang, this server will restart in 1 minute. Please disconnect now.＂}"
+> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂txAdmin＂,＂message＂:＂Server restarting (hang detected).＂}"
+[      script:monitor] [txAdmin] Server shutdown imminent. Kicking all players.
+
+================================================================
+======== FXServer Starting - 17/4/2568 11:55:13                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 25 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[      net-tcp-server] Listening on socket failed - libuv error EADDRINUSE.
+[      net-tcp-server] error on connection: address already in use
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://sixnumz-k4p4z6.users.cfx.re/
+> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂Sixnumz＂,＂message＂:＂Server restarting (requested by Sixnumz).＂}"
+[      script:monitor] [txAdmin] Server shutdown imminent. Kicking all players.
+
+================================================================
+======== FXServer Starting - 17/4/2568 11:55:56                 
+================================================================
+[           resources] Scanning resources.
+[  resources:sz_test2] Warning: sz_test2 does not have a resource manifest (fxmanifest.lua)
+[38;5;83m[           resources] Found 29 resources.
+[           resources] 1 warning was encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[      net-tcp-server] Listening on socket failed - libuv error EADDRINUSE.
+[      net-tcp-server] error on connection: address already in use
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] [0mCreating script environments for hardcap
+[           resources] Started resource hardcap
+[           resources] Started resource RageUI
+[    c-scripting-core] Creating script environments for sz_report
+[           resources] Started resource sz_report
+[    c-scripting-core] Creating script environments for sz_test
+[           resources] Started resource sz_test
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://sixnumz-k4p4z6.users.cfx.re/
+> txaEvent "announcement" "{＂author＂:＂txAdmin＂,＂message＂:＂Due to a partial hang, this server will restart in 1 minute. Please disconnect now.＂}"
+> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂txAdmin＂,＂message＂:＂Server restarting (hang detected).＂}"
+[      script:monitor] [txAdmin][97m Server shutdown imminent. Kicking all players.
+
+================================================================
+======== FXServer Starting - 17/4/2568 11:57:03                 
+================================================================
+[           resources] Scanning resources.
+[  resources:sz_test2] Warning: sz_test2 does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 29 resources.
+[           resources] 1 warning was encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[      net-tcp-server] Listening on socket failed - libuv error EADDRINUSE.
+[      net-tcp-server] error on connection: address already in use
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[           resources] Started resource RageUI
+[    c-scripting-core] Creating script environments for sz_report
+[           resources] Started resource sz_report
+[    c-scripting-core] [0mCreating script environments for sz_test
+[           resources] Started resource sz_test
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://sixnumz-k4p4z6.users.cfx.re/
+> txaEvent "announcement" "{＂author＂:＂txAdmin＂,＂message＂:＂Due to a partial hang, this server will restart in 1 minute. Please disconnect now.＂}"
+> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂txAdmin＂,＂message＂:＂Server restarting (hang detected).＂}"
+[      script:monitor] [txAdmin] Server shutdown imminent. Kicking all players.
+
+================================================================
+======== FXServer Starting - 17/4/2568 11:58:09                 
+================================================================
+[           resources] Scanning resources.
+[  resources:sz_test2] Warning: sz_test2 does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 29 resources.
+[           resources] 1 warning was encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[           resources] Started resource RageUI
+[    c-scripting-core] Creating script environments for sz_report
+[           resources] Started resource sz_report
+[    c-scripting-core] Creating script environments for sz_test
+[           resources] Started resource sz_test
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] [91mcc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://sixnumz-k4p4z6.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 17/4/2568 12:56:43                 
+================================================================
+[           resources] Scanning resources.
+[resources:sz_dailyre] Warning: sz_dailyrewards does not have a resource manifest (fxmanifest.lua)
+[  resources:sz_quest] Warning: sz_quest does not have a resource manifest (fxmanifest.lua)
+[ resources:sz_skills] Warning: sz_skills does not have a resource manifest (fxmanifest.lua)
+[  resources:sz_test2] Warning: sz_test2 does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 33 resources.
+[           resources] 4 warnings were encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[           resources] Started resource RageUI
+[    c-scripting-core] Creating script environments for sz_core
+[    c-scripting-core] [97mFailed to load script @es_extended/imports.lua.
+[    c-scripting-core] Failed to load script @oxmysql/lib/MySQL.lua.
+[           resources] Started resource sz_core
+[    c-scripting-core] Creating script environments for sz_report
+[           resources] Started resource sz_report
+[    c-scripting-core] Creating script environments for sz_test
+[           resources] Started resource sz_test
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] [0mAuthenticated with cfx.re Nucleus: https://sixnumz-k4p4z6.users.cfx.re/
+[ citizen-server-impl] server thread hitch warning: timer interval of 153 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 202 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 168 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[      script:hardcap] [0mConnecting: Sixnumz Starwales
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[ citizen-server-main] -> Quitting: SIGHUP received

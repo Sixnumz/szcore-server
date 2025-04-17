@@ -1,0 +1,25 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 17/4/2568 11:48:52
+================================================================
+[11:49:18][Sixnumz] created admins file
+[11:49:54][Sixnumz] Changing global settings via setup stepper and started Deployer.
+[11:50:26][Sixnumz] Setting recipe.
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 17/4/2568 11:52:39
+================================================================
+[11:52:57][Sixnumz] logged in from 127.0.0.1 via password
+[11:53:06][Sixnumz] Changing global settings via setup stepper and started Deployer.
+[11:53:14][Sixnumz] Setting recipe.
+[11:53:16][Sixnumz] Running recipe.
+[11:54:08][Sixnumz] Completed and committed server deploy.
+[11:55:07][MONITOR] Restarting server (server partial hang detected).
+[11:55:50][Sixnumz] executed "RESTART SERVER"
+[11:56:57][MONITOR] Restarting server (server partial hang detected).
+[11:58:03][MONITOR] Restarting server (server partial hang detected).
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 17/4/2568 12:56:33
+================================================================
+[12:57:18][Sixnumz] logged in from 127.0.0.1 via password
